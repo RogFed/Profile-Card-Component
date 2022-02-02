@@ -8,15 +8,15 @@ import avatar from '../images/image-victor.jpg'
 
 const insights = [
   {
-    title: '80k',
+    title: '80K',
     tag: 'Followers',
   },
   {
-    title: '803k',
+    title: '803K',
     tag: 'Likes',
   },
   {
-    title: '1.4k',
+    title: '1.4K',
     tag: 'Photos',
   },
 ]
