@@ -33,8 +33,8 @@ const Card = () => (
       <p>London</p>
     </div>
     <footer>
-      {insights.map(insight => (
-        <Insight {...insight} />
+      {insights.map((insight, index) => (
+        <Insight {...insight} key={index} />
       ))}
     </footer>
   </section>
